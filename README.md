@@ -30,9 +30,9 @@ flowchart TD
 ## Setup Instructions
 
 ### Prerequisites
-- **Android Studio**: Latest stable (Arctic Fox or newer)
-- **JDK**: 17+
-- **Gradle**: 8.x (bundled with Android Studio)
+- **Android Studio**: Android Studio Narwhal 4 Feature Drop | 2025.1.4
+- **JDK**: 11+
+- **Gradle**: 8.13 (bundled with Android Studio)
 
 ### Steps
 1. Clone the repository:
